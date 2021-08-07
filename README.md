@@ -7,4 +7,4 @@ Languages Used:
 3) Javascript  
 4) jQuery  
 
-For Demo You can check my Hosted website at "https://keval01.000webhostapp.com/"   
+
